@@ -8,7 +8,6 @@ These programs can measure the MAC generation time for normal [CBC-MAC](https://
 - Specify an arbitrary data size (in bytes) for the function “zeroOutMessage()”, which is the argument of the variable “input” in the main function. Then, enter the number of iterations of the MAC generation function in the variable “func_cnt” and the number of execution time measurements in the variable “rep_cnt”.
 
 # Requirements
-- VisualStudio2022
 - C++14
 - 11th Gen Intel Corei5 2.40GHz
 
